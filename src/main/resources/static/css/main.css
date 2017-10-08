@@ -1,0 +1,36 @@
+body textarea input {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 11px;
+}
+h3 {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 14px;
+	text-align: center;
+	margin: 25px;
+}
+#hor-minimalist-b
+{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 11px;
+	background: #fff;
+	margin: 15px;
+	width: 90%;
+	border-collapse: collapse;
+	text-align: left;
+}
+#hor-minimalist-b th
+{
+	font-size: 14px;
+	font-weight: bold;
+	color: black;
+	padding: 10px 8px;
+	text-align: center;
+	text-transform: capitalize;
+	border-bottom: 2px solid #6678b1;
+}
+#hor-minimalist-b td
+{
+	color: #669;
+	padding: 3px 4px;
+	border-bottom: 1px solid #ccc;
+}
